@@ -28,7 +28,3 @@ The systems people depend on — hiring, networking, building software — are b
 Every tool we build is an attempt to give individuals back what those systems took from them.
 
 No VC. No platform. No data stored. Building in public.
-
----
-
-*Toronto · [navox.tech](https://navox.tech)*
