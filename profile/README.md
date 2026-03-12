@@ -4,6 +4,13 @@ Research first. Build second. Ship when it's real.
 
 ---
 
+## Research
+
+📄 [The AI Recruitment Crisis](../ai_recruitment_crisis.pdf) — why algorithmic hiring is broken  
+📄 [The Invisible Network](../invisible_network.pdf) — weak-ties theory and the hidden referral economy
+
+---
+
 ## What we're building
 
 | | Repo | What it does |
@@ -22,3 +29,6 @@ Every tool we build is an attempt to give individuals back what those systems to
 
 No VC. No platform. No data stored. Building in public.
 
+---
+
+*Toronto · [navox.tech](https://navox.tech)*
