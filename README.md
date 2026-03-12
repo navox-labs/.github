@@ -67,4 +67,4 @@ Your data is yours. Your code is yours. Your network is yours.
 
 ---
 
-Built by [Nahrin Yousif](https://navox.tech/card/nahrin) · Toronto
+Built by [Nahrin Oda](https://navox.tech/card/nahrin) · Toronto
