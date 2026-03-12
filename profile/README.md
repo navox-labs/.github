@@ -22,6 +22,3 @@ Every tool we build is an attempt to give individuals back what those systems to
 
 No VC. No platform. No data stored. Building in public.
 
----
-
-*Toronto · [navox.tech](https://navox.tech)*
