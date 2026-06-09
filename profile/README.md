@@ -11,7 +11,6 @@ Research first. Build second. Ship when it's real.
 | 🤖 | [agents](https://github.com/navox-labs/agents) | 15 specialist AI agents for Claude Code — full sprint cycle from strategy to shipping. No platform. No login. Your code never leaves your machine. |
 | 🕸️ | [network](https://github.com/navox-labs/network) | Map your professional network. Find your side door. Built on 50 years of weak-ties research — no login, no server, your data never leaves your browser. |
 | 🧠 | [coach](https://github.com/navox-labs/coach) | AI network strategist. Turns your weak-ties map into an outreach plan. No data stored. |
-| 🎮 | [pipewar](https://github.com/navox-labs/pipewar) | Factorio meets cybersecurity. Build production pipelines, defend against hackers. Built entirely by AI agents. |
 | 🪪 | [ProfileCard](https://www.navox.tech) *(private beta)* | Turns your resume into an interactive AI-powered profile card in 60 seconds. Recruiters chat with your AI agent instead of a screening call. Includes voice cloning, profile analytics, AI interview coaching, and a LinkedIn network visualizer. |
 
 ---
