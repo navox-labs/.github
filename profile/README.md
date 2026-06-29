@@ -12,6 +12,7 @@ Research first. Build second. Ship when it's real.
 | 🕸️ | [network](https://github.com/navox-labs/network) | Map your professional network. Find your side door. Built on 50 years of weak-ties research — no login, no server, your data never leaves your browser. |
 | 📊 | [github-traffic-agent](https://github.com/navox-labs/github-traffic-agent) | AI-powered GitHub Action that collects repo traffic data daily and generates Claude-powered intelligence briefs. Deterministic data spine with LLM-generated insights — runs on a schedule, no server needed. |
 | 🪪 | [ProfileCard](https://www.navox.tech) *(private beta)* | Turns your resume into an interactive AI-powered profile card in 60 seconds. Recruiters chat with your AI agent instead of a screening call. Includes voice cloning, profile analytics, AI interview coaching, and a LinkedIn network visualizer. |
+| 🔬 | [Winnow](https://github.com/navox-labs/winnow) | An open, controlled harness for testing bias in AI résumé screeners. Built to find bias; tested four kinds across two production models with real controls — and found they don't robustly replicate on current models. Honest null, open code. [The story →](https://medium.com/@nahrin_40746/i-built-a-tool-to-prove-ai-hiring-bias-it-proved-me-wrong-57b29c2a215c) |
 
 ---
 
