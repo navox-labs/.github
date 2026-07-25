@@ -8,6 +8,7 @@ Research first. Build second. Ship when it's real.
 
 | | Product | What it does |
 |---|---|---|
+| 🧠  | [inkling-hire](https://github.com/navox-labs/inkling-hire) | Self-hosted AI résumé screening with an always-on bias audit. Powered by a fine-tuned Inkling model ([nahrin/inkling-hire](https://huggingface.co/nahrin/inkling-hire)) — calibrated scores, blind review by default, human-in-the-loop by construction. First model in the `inkling-*` series. Your candidate data never leaves your infrastructure. |
 | 🔬 | [Winnow](https://github.com/navox-labs/winnow) | An open, controlled harness for testing bias in AI résumé screeners. Built to find bias; tested four kinds across two production models with real controls — and found they don't robustly replicate on current models. Honest null, open code. [The story →](https://medium.com/@nahrin_40746/i-built-a-tool-to-prove-ai-hiring-bias-it-proved-me-wrong-57b29c2a215c) |
 | 🤖 | [agents](https://github.com/navox-labs/agents) | 15 specialist AI agents for Claude Code — full sprint cycle from strategy to shipping. No platform. No login. Your code never leaves your machine. |
 | 🕸️ | [network](https://github.com/navox-labs/network) | Map your professional network. Find your side door. Built on 50 years of weak-ties research — no login, no server, your data never leaves your browser. |
