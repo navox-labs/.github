@@ -2,6 +2,8 @@
 
 Research first. Build second. Ship when it's real.
 
+*In July 2026 we shipped our first fine-tuned model — [inkling-hire](https://huggingface.co/nahrin/inkling-hire), built and audited in public in ten days.*
+
 ---
 
 ## What we're building
